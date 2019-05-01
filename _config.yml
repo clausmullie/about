@@ -1,4 +1,4 @@
-title: About the Foundation For Public Code
+title: About the Foundation for Public Code
 permalinks: pretty
 
 include:
@@ -14,3 +14,36 @@ remote_theme: publiccodenet/jekyll-theme
 # Exclude the `vendor` folder created by Travis
 exclude:
   - vendor
+
+# Display Table of Contents on every page, disable by adding `toc: false` to the front matter of any file
+toc: true
+
+defaults:
+  -
+    scope: 
+      path: '/roles/*'
+    values:
+      breadcrumbs:
+        - name: 'Roles'
+          path: '/roles/'
+  -
+    scope: 
+      path: '/activities/*'
+    values:
+      breadcrumbs:
+        - name: 'Activities'
+          path: '/activities/'
+  -
+    scope: 
+      path: '/glossary/*'
+    values:
+      breadcrumbs:
+        - name: 'Glossary'
+          path: '/glossary/'
+  -
+    scope: 
+      path: '/contributor-guides/*'
+    values:
+      breadcrumbs:
+        - name: 'Contributor guides'
+          path: '/contributor-guides/'

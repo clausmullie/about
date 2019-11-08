@@ -4,11 +4,21 @@ type: Index
 
 # Activities
 
-These are all of the activities, products and services of the Foundation for Public Code that serve to further the [mission](../organization/mission.md) to serve our members directly:
+Activities of the Foundation for Public Code that directly serve to further the [mission](../organization/mission.md):
 
-* [Codebase stewardship](codebase-stewardship/index.md): Providing for the sustainability, marketability and assured quality of a public code product.
-* [Codebase auditing](codebase-auditing/index.md): Certifying contributions and codebases as public code.
+* [Codebase stewardship](codebase-stewardship/index.md): Enabling a codebase to attain the sustainability, marketability, support and quality needed to be successfully reused and community developed.
+* [Codebase auditing](codebase-auditing/index.md): Performing standards compliance checking on codebases, including on the Standard for Public Code and project specific standards.
 
-These are the processes and services that make our operations work:
+Activities that support the above as well as make staff operations work:
 
-* [Documentation of the organization](documentation/index.md)
+* [Communication](communication/index.md)
+* [Documentation](documentation/index.md)
+* [Member relations](member-relations/index.md)
+* [Onboarding new staff](../contributor-guides/for-staff.md)
+* [Organizing events](organizing-events/index.md)
+* [Procurement](procurement/index.md)
+* [Recruitment](recruitment/index.md)
+* [Staff meetings](staff-meetings/index.md)
+* [Trainings](trainings/index.md)
+* [Value and impact](value-and-impact/index.md)
+* [Workshops](workshops/index.md)

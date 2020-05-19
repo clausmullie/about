@@ -1,29 +1,33 @@
-# What we do
+---
+type: Index
+---
 
-We help Open Source projects for cities become successful, build sustainable communities around them and create a thriving public Open Source ecosystem.
+# About us
 
-[Our mission](mission/index.md) is to create a viable future for cities and civic operating systems that are highly participatory and drive societal engagement.
-We do this through ecosystem level [product stewardship](activities/index.md) of both computer and civic code enabling collaboration and re-use at scale.
+We help open source projects for public organizations to become successful, build sustainable communities around them and create a thriving public open source ecosystem.
+
+[Our mission](organization/mission.md) is to enable public-purpose software and policy that is open and collaborative.
+
+We do this through ecosystem level [codebase stewardship](activities/index.md) of both software and civic code, enabling collaboration and reuse at scale.
+
+## Information and processes
+
+The [About site](activities/documentation/index.md) is home to all of our staff information, decision-making rules and processes. It is our staff manual that can be developed collaboratively with the community and reused by everyone.
 
 Read more about:
 
-* [Our mission](mission/index.md)
-* [Our activities and services](activities/index.md)
+* [our activities](activities/index.md)
+* [our organization](organization/index.md)
+* [glossary of terms and concepts](glossary/index.md)
+
+## Our sites
+
+Our [home page at publiccode.net](https://publiccode.net) features a [high level overview of codebase stewardship](https://publiccode.net/codebase-stewardship/), [our team bios](https://publiccode.net/team/), and [the careers page with open positions](https://publiccode.net/careers/).
+
+Additionally, we have separate sites that show our [projects](https://projects.publiccode.net), [how to use the brand](https://brand.publiccode.net/) and our [blog](https://blog.publiccode.net).
 
 ## We need you
 
-We can [really use your help](CONTRIBUTING.md) in setting up the Foundation For Public Code and making it successful.
+We can [use your help](CONTRIBUTING.md) to make the Foundation for Public Code a success.
 
-## Contact
-
-The Foundation For Public Code
-
-* [info@publiccode.net](mailto:info@publiccode.net)
-* [github.com/publiccodenet](https://github.com/publiccodenet)
-* [twitter.com/publiccodenet](https://twitter.com/publiccodenet)
-
-**Ben Cerveny, Director**  
-[b.cerveny@publiccode.net](mailto:b.cerveny@publiccode.net)
-
-**Boris van Hoytema, Director**  
-[b.vanhoytema@publiccode.net](mailto:b.vanhoytema@publiccode.net)
+If you want to get our news delivered directly to you, [join our mailing list](https://forms.gle/gn7wR2Eaxbv5g1BF9).

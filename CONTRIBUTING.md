@@ -9,7 +9,7 @@ Thanks for your interest in the Foundation for Public Code! We’re excited to m
 
 There’s lots of work going on as we start the Foundation - we’d love your help with this.
 
-In 2019 we’re focused on:
+In 2019 we focused on:
 
 + designing and testing our codebase stewardship processes
 + establishing relationships with the Foundation’s founding members (public organizations)
@@ -26,6 +26,8 @@ We’re especially interested in learning what you need to implement the [Standa
 
 We're currently hiring codebase stewards - [see our careers and open positions](https://publiccode.net/careers).
 
+[Join our mailing list] to keep up with our news.
+
 ## Public organizations
 
 We’re currently looking for innovative public organizations to [join us as founding members](https://publiccode.net/membership/founding-membership). As a founding member, you’ll have the chance to shape the Foundation’s processes and governance. Your code will be among the first accepted for Foundation stewardship.
@@ -38,4 +40,4 @@ If you believe there should be a structural solution to making open source softw
 
 ## International sanctions
 
-As a legal association in the Netherlands the Foundation for Public Code follows [EU law regarding international sanctions](https://sanctionsmap.eu/#/main).
+As a legal association in the Netherlands, the Foundation for Public Code follows [EU law regarding international sanctions](https://sanctionsmap.eu/#/main).

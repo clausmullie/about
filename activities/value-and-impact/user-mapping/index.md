@@ -6,6 +6,8 @@ type: Resource
 
 These are Foundation for Public Code value proposition hypotheses to test for user research, organised by probable user groups.
 
+See [common pitches](../../communication/pitching.md) for different opening lines to use based on who your interlocutor might be.
+
 ## User groups
 
 Decision makers and sponsors:
@@ -18,7 +20,7 @@ Users and contributors:
 
 * the policy community
 * [developers, designers and the open source community](developers-and-designers.md)
-* business management and procurement for public administrations
+* [business management and procurement for public administrations](management-and-procurement.md)
 
 Affiliates and partners:
 

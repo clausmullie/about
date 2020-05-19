@@ -18,18 +18,15 @@ The chair and the notetaker:
 * create a notes HackMD.io document for this call
 * add "updates since the last community call" to the notes - keep this to three items or fewer (we want the community call to be a dialogue, not a broadcast). If possible, focus on community related updates
 * put these in the call notes doc
+* update the [agenda](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit)
+* send out invitations ([template](community-call-invite-template.md))
+* post the agenda to [the community forum](community-discussions.md)
 
 Ask the [communications coordinator](../../organization/staff.md#communications) if you need help with Foundation updates.
 
 The notetaker will take notes during the call in the same document.
 
-### Conference call etiquette
-
-Each person should use their own computer so everyone on the call is symbolically equal.
-
-The chair should be on the call 5 minutes before the call starting time.
-
-Consider putting a Foundation for Public Code poster on the wall behind you.
+Have each person join the call on a separate connection aligned with our [conference call etiquette](conference-call-etiquette.md).
 
 ## Templated agenda items
 
@@ -40,11 +37,11 @@ Consider putting a Foundation for Public Code poster on the wall behind you.
 
 ## 1. Opening the call
 
-Call-in link: [https://meet.google.com/tfd-acmn-tkb[(https://meet.google.com/tfd-acmn-tkb)
+Call-in link: <https://meet.google.com/tfd-acmn-tkb>
 
-Agenda link: [https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit](https://hackmd.io/-OegeqvoThCbAsw3c3gIjw?edit)
+Agenda link: <https://hackmd.io/-OegeqvoThCbAsw3c3gIjw>
 
-### No-show
+### No show
 
 If nobody joins at the call starting time, wait at least 15 minutes before closing the call. If possible, leave the call open the entire hour for potential late drop-ins.
 
@@ -94,7 +91,7 @@ The chair then either:
 When either the time is up, or all topics have been exhausted, the chair:
 
 * asks if anyone has anything else to add or ask before closing the call
-* reminds everyone that there is another call in two weeks and asks for suggested topics for that call
+* reminds everyone that there is another call in a month and asks for suggested topics for that call
 * explains that the minutes will be sent out for review
 * thanks everyone for participating in the call
 
@@ -105,4 +102,4 @@ The notetaker reworks the call notes into a call summary.
 The notetaker shares the call summary with people who were on the call for amendment and approval before:
 
 * linking from any relevant GitHub issues or pull requests
-* publishing anywhere else
+* publishing on [the blog](https://blog.publiccode.net)

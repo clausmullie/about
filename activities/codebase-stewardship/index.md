@@ -15,6 +15,7 @@ We can provide codebase stewardship from the beginning of the development or for
 
 ## What codebase stewardship is
 
+* [resources to help explain what codebase stewardship is](explaining-stewardship/index.md)
 * [activities we perform in codebase stewardship](activities.md)
 * [goals of codebase stewardship](goals.md)
 
@@ -22,8 +23,12 @@ We can provide codebase stewardship from the beginning of the development or for
 
 * [the codebase stewardship lifecycle](lifecycle.md)
 * [how codebase stewardship works for existing projects](for-existing-projects.md)
+
+## Useful resources
+
 * [criteria we use to assess whether a codebase is ready and suitable for incubation](criteria-for-codebase-stewardship.md)
 * [product assets needed during early incubation](product-assets-for-early-incubation.md)
+* [stewardship proposal we can send to principal maintainers](stewardship-proposal-template.md)
 
 ## Further reading
 
